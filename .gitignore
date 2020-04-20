@@ -1,5 +1,12 @@
+#Folders
 .idea/
 build/
 gradle/
+.gradle/
+
+#Compiled classes
+.class
+
+#Unneccessary files
 settings.gradle
 gradlew*
